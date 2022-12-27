@@ -1,0 +1,13 @@
+C:\Users\yxl13153\Documents\CopyUserData\CopyUserData\bin\Debug\CopyUserData.exe.config
+C:\Users\yxl13153\Documents\CopyUserData\CopyUserData\bin\Debug\CopyUserData.exe
+C:\Users\yxl13153\Documents\CopyUserData\CopyUserData\bin\Debug\CopyUserData.pdb
+C:\Users\yxl13153\Documents\CopyUserData\CopyUserData\bin\Debug\CopyUserData.xml
+C:\Users\yxl13153\Documents\CopyUserData\CopyUserData\obj\Debug\CopyUserData.vbproj.AssemblyReference.cache
+C:\Users\yxl13153\Documents\CopyUserData\CopyUserData\obj\Debug\CopyUserData.vbproj.SuggestedBindingRedirects.cache
+C:\Users\yxl13153\Documents\CopyUserData\CopyUserData\obj\Debug\CopyUserData.Form1.resources
+C:\Users\yxl13153\Documents\CopyUserData\CopyUserData\obj\Debug\CopyUserData.Resources.resources
+C:\Users\yxl13153\Documents\CopyUserData\CopyUserData\obj\Debug\CopyUserData.vbproj.GenerateResource.cache
+C:\Users\yxl13153\Documents\CopyUserData\CopyUserData\obj\Debug\CopyUserData.vbproj.CoreCompileInputs.cache
+C:\Users\yxl13153\Documents\CopyUserData\CopyUserData\obj\Debug\CopyUserData.exe
+C:\Users\yxl13153\Documents\CopyUserData\CopyUserData\obj\Debug\CopyUserData.xml
+C:\Users\yxl13153\Documents\CopyUserData\CopyUserData\obj\Debug\CopyUserData.pdb
